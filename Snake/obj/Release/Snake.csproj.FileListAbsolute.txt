@@ -1,0 +1,15 @@
+C:\Users\enesc\Desktop\Snake\Snake\Snake\bin\Release\Snake.exe.config
+C:\Users\enesc\Desktop\Snake\Snake\Snake\bin\Release\Snake.exe
+C:\Users\enesc\Desktop\Snake\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.First.resources
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.İletişim.resources
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.Karar.resources
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.Selection.resources
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.Game.resources
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.UnFramed.resources
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.cache
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.exe
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.pdb
+C:\Users\enesc\Desktop\Snake\Snake\Snake\obj\Release\Snake.csprojResolveAssemblyReference.cache
